@@ -25,7 +25,6 @@
 ### 💼 **2015: Un gran salto en tecnología**  
 **Bienvenida MacBook Air**  
 > Actualicé mi equipo a una **MacBook Air**, lo que cambió por completo mi manera de trabajar y aprender.  
-> Mi curiosidad por la **robótica** creció, y empecé a indagar en el mundo de los **Arduinos** y **Legos mindstorms**.
 
 ---
 
@@ -41,7 +40,7 @@
 
 ---
 
-### 🚀 **2023: Segundo año de universidad**  
+### 📚 **2023: Segundo año de universidad**  
 **Ampliando mis conocimientos**  
 > He estado trabajando en proyectos más avanzados en la universidad, aplicando todo lo que he aprendido en **Java** y **C#**.  
 > Mi pasión por la informática sigue creciendo, y estoy más emocionado que nunca por lo que el futuro me depara en este campo.
