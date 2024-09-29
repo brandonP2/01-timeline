@@ -2,16 +2,15 @@
 
 ---
 
-### 📱 **2009: Primer teléfono móvil**  
+### 📱 **2009: Primer móvil**  
 **Sony Ericsson en mis manos**  
 > El mundo digital comenzó a expandirse cuando adquirí mi primer móvil.  
-> Entre mensajes y juegos, me atrapó la idea de **crear** mis propios videojuegos.
-
+>Entre mensajes y juegos, los videojuegos me atraparon por completo, despertando mi curiosidad por el asombroso mundo que se esconde detrás de su desarrollo.
 ---
 
 ### 🕹️ **2010: El sueño del PS3**  
 *PlayStation 3 (PS3)*  
-> Mientras todos mis amigos me hablaban de su PS3(Que ya había salido hace 2 años), yo seguía disfrutando de mi querida PlayStation 2 y Nintendo 64.  
+> Mientras todos mis amigos me hablaban de su PS3(Que ya había salido hace 4 años), yo seguía disfrutando de mi querida PlayStation 2 y Nintendo 64.  
 > El sueño de tener mi propia consola de última generación comenzó aquí.
 
 ---
