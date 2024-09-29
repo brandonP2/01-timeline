@@ -26,7 +26,7 @@
 ### 💼 **2015: Un Gran Salto en Tecnología**  
 **Bienvenida MacBook Air**  
 > Actualicé mi equipo a una **MacBook Air**, lo que cambió por completo mi manera de trabajar y aprender.  
-> Mi curiosidad por la **robótica** creció, y empecé a construir robots y a experimentar con programación básica en **Arduino**.
+> Mi curiosidad por la **robótica** creció, y empecé a hacer circuitos de **Arduino**.
 
 ---
 
